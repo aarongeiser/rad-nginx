@@ -1,0 +1,9 @@
+DOCKER_NAMESPACE = frog
+DOCKER_IMAGE_VERSION ?= latest
+DOCKER_REPOSITORY = rad-nginx
+DOCKER_CONTAINER_NAME = rad-nginx
+DOCKER_INSTANCE = 1
+DOCKER_PORTS = -p 80:80
+DOCKER_MAPPED_VOLUMES = -v $(shell pwd)/src:/src
+DOCKER_ENV = \
+	-e ENV=development

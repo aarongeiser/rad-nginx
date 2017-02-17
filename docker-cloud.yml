@@ -1,0 +1,4 @@
+web:
+  image: frog/rad-nginx
+  ports:
+    - "80:80"
