@@ -19,4 +19,4 @@ Once Docker is installed on your machine, follow the steps below to begin develo
 
 # Troubleshooting
 
-1.  If you are using Chrome and are experiencing issue with browser caching - try the steps outlined here to temporarily disable browser caching:  http://stackoverflow.com/questions/33741550/nginx-server-caching-in-chrome
+1.  If you are using Chrome and are experiencing issue with browser caching - try the steps outlined here to temporarily disable browser caching:  http://stackoverflow.com/questions/5690269/disabling-chrome-cache-for-website-development
