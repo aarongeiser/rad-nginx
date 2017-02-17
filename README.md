@@ -16,3 +16,7 @@ Once Docker is installed on your machine, follow the steps below to begin develo
 
 # Success
 1.  If successful, the location(s) you configured will route http traffic as expected from the host location.
+
+# Troubleshooting
+
+1.  If you are using Chrome and are experiencing issue with browser caching - try the steps outlined here to temporarily disable browser caching:  http://stackoverflow.com/questions/33741550/nginx-server-caching-in-chrome
