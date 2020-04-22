@@ -1,4 +1,4 @@
-FROM nginx:1.10.3
+FROM nginx:1.17.10
 
 RUN mkdir /etc/nginx/sites-enabled
 
